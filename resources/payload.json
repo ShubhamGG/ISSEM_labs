@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "security_question": "What is your favorite animal?",
+  "name": "Ross Rhodes",
+  "accounts": [1, 2, 3],
+  "contact_details": {
+    "phone": "07123456789",
+    "address": "2700 Metrotech Centre, Brooklyn, NY",
+    "emergency_contact": "alfonso@example.com",
+    "email": "ross.rhodes@example.com"
+  }
+}
